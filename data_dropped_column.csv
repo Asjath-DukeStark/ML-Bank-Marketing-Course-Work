@@ -29181,6 +29181,7 @@ management,single,tertiary,no,-145,yes,no,cellular,268,2,196,2,failure,0
 unemployed,married,primary,no,3175,no,no,cellular,165,1,-1,0,unknown,0
 management,married,tertiary,no,474,yes,yes,cellular,190,4,264,4,failure,0
 retired,married,primary,no,174,yes,yes,cellular,157,2,252,1,failure,0
+management,married,tertiary,no,543,yes,no,cellular,349,2,262,275,other,0
 management,married,tertiary,no,82,no,no,cellular,124,1,178,4,success,0
 admin.,married,secondary,no,11,no,no,cellular,261,1,265,3,failure,0
 technician,married,tertiary,no,-624,no,no,telephone,20,8,-1,0,unknown,0
